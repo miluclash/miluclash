@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Michael Criollo,
-I'm a first year Web Applications Developer student at IES Pio Baroja.
+### Hi there 👋 I'm Michael ,
+I'm a first year Web Applications Developer student.
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I'm currently studying:
 	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+- :bulb: I'm interested in all things data: **Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about Sports, Philosophy, Science, anything that interests you.
 ## My Skills Include
 <h4> Languages </h4>
 <span>
@@ -43,7 +43,7 @@ I'm a first year Web Applications Developer student at IES Pio Baroja.
     
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots reach hell.</i>
+   <i>Plus Ultra.</i>
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/michael-criollo-guaita-a6ab052ab"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
