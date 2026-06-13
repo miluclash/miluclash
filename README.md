@@ -40,7 +40,15 @@ I'm a first year Web Applications Developer student.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </span>
-    
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/miluclash/miluclash/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/miluclash/miluclash/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/miluclash/miluclash/output/github-contribution-grid-snake.svg">
+</picture>    
+
 <hr>
 <p align="center">
    <i>Plus Ultra.</i>
