@@ -5,6 +5,11 @@ I'm a first year Web Applications Developer student.
 	- Web Application Development 
 - :bulb: I'm interested in all things data: **Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Sports, Philosophy, Science, anything that interests you.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miluclash&theme=elegant&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## My Skills Include
 <h4> Languages </h4>
 <span>
